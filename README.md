@@ -28,6 +28,7 @@ sh test.sh
 
 ## 题解列表
 
-| 序号  |                       标题                        | 难度  |                     方案                     |
-| :---: | :-----------------------------------------------: | :---: | :------------------------------------------: |
-| 0001  | [两数之和](https://leetcode.cn/problems/two-sum/) | 简单  | [Rust](src/solutions/problem0001/two_sum.rs) |
+| 序号  |                           标题                            | 难度  |                         方案                         |
+| :---: | :-------------------------------------------------------: | :---: | :--------------------------------------------------: |
+| 0001  |     [两数之和](https://leetcode.cn/problems/two-sum/)     | 简单  |     [Rust](src/solutions/problem0001/two_sum.rs)     |
+| 0002  | [两数相加](https://leetcode.cn/problems/add-two-numbers/) | 中等  | [Rust](src/solutions/problem0002/add_two_numbers.rs) |
